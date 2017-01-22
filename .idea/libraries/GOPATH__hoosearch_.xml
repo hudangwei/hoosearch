@@ -1,0 +1,43 @@
+<component name="libraryTable">
+  <library name="GOPATH &lt;hoosearch&gt;">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/../../../golang.org" />
+      <root url="file://$PROJECT_DIR$/../../../sourcegraph.com" />
+      <root url="file://$PROJECT_DIR$/../../../../../../my-go-lab/src/beeweb" />
+      <root url="file://$PROJECT_DIR$/../../../../../../my-go-lab/src/stuq_searcher" />
+      <root url="file://$PROJECT_DIR$/../../../../../../go-workspace/src/kingshard" />
+      <root url="file://$PROJECT_DIR$/../../../../../../my-go-lab/src/doctool" />
+      <root url="file://$PROJECT_DIR$/../../../../../../my-go-lab/src/stocksniper" />
+      <root url="file://$PROJECT_DIR$/../../../../../../go-workspace/src/ngrok" />
+      <root url="file://$PROJECT_DIR$/../../../../../../my-go-lab/src/gowalker" />
+      <root url="file://$PROJECT_DIR$/../../../../../../go-workspace/src/.idea" />
+      <root url="file://$PROJECT_DIR$/../../../../../../go-workspace/src/swagdown" />
+      <root url="file://$PROJECT_DIR$/../../../../../../my-go-lab/src/blog" />
+      <root url="file://$PROJECT_DIR$/../../../../../../my-go-lab/src/hoopa" />
+      <root url="file://$PROJECT_DIR$/../../../gopkg.in" />
+      <root url="file://$PROJECT_DIR$/../../../../../../go-workspace/src/ngrok-test-localserver" />
+      <root url="file://$PROJECT_DIR$/../.." />
+    </CLASSES>
+    <SOURCES>
+      <root url="file://$PROJECT_DIR$/../../../golang.org" />
+      <root url="file://$PROJECT_DIR$/../../../sourcegraph.com" />
+      <root url="file://$PROJECT_DIR$/../../../../../../my-go-lab/src/beeweb" />
+      <root url="file://$PROJECT_DIR$/../../../../../../my-go-lab/src/stuq_searcher" />
+      <root url="file://$PROJECT_DIR$/../../../../../../go-workspace/src/kingshard" />
+      <root url="file://$PROJECT_DIR$/../../../../../../my-go-lab/src/doctool" />
+      <root url="file://$PROJECT_DIR$/../../../../../../my-go-lab/src/stocksniper" />
+      <root url="file://$PROJECT_DIR$/../../../../../../go-workspace/src/ngrok" />
+      <root url="file://$PROJECT_DIR$/../../../../../../my-go-lab/src/gowalker" />
+      <root url="file://$PROJECT_DIR$/../../../../../../go-workspace/src/.idea" />
+      <root url="file://$PROJECT_DIR$/../../../../../../go-workspace/src/swagdown" />
+      <root url="file://$PROJECT_DIR$/../../../../../../my-go-lab/src/blog" />
+      <root url="file://$PROJECT_DIR$/../../../../../../my-go-lab/src/hoopa" />
+      <root url="file://$PROJECT_DIR$/../../../gopkg.in" />
+      <root url="file://$PROJECT_DIR$/../../../../../../go-workspace/src/ngrok-test-localserver" />
+      <root url="file://$PROJECT_DIR$/../.." />
+    </SOURCES>
+    <excluded>
+      <root url="file://$PROJECT_DIR$" />
+    </excluded>
+  </library>
+</component>
